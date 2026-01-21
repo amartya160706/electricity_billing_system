@@ -1,0 +1,20 @@
+# TODO
+
+## Features
+
+- [ ] Add notifications system
+- [ ] Add email/SMS alerts for bill due dates
+- [ ] Add PDF bill generation
+- [ ] Add payment gateway integration
+- [ ] Add monthly automated billing
+
+## Bug Fixes
+
+- [ ] Fix session timeout handling
+- [ ] Add input validation improvements
+
+## Refactoring
+
+- [ ] Move all database queries to models
+- [ ] Add error handling middleware
+- [ ] Improve code organization
